@@ -9,6 +9,13 @@
         "Beef Wellington",
         "Shepherd's Pie",
         "Lamb Chops with Mint Sauce"
+      ],
+      "ingredients": [
+        "Parmesan Cheese ,",
+        "Lobster Rolls ,",
+        "Beef Wellington ,",
+        "Lamb Chops with Mint Sauce ,",
+        "Beef Wellington"
       ]
     },
     {
@@ -22,6 +29,14 @@
         "Pesto Pasta",
         "Beef Bourguignon"
       ]
+      ,
+      "ingredients": [
+        "Parmesan Cheese ,",
+        "Lobster Rolls ,",
+        "Beef Wellington ,",
+        "Lamb Chops with Mint Sauce ,",
+        "Beef Wellington"
+      ]
     },
     {
       "id": "3",
@@ -33,6 +48,14 @@
         "Grilled Steak",
         "BBQ Ribs",
         "Fish Tacos"
+      ]
+      ,
+      "ingredients": [
+        "Parmesan Cheese ,",
+        "Lobster Rolls ,",
+        "Beef Wellington ,",
+        "Lamb Chops with Mint Sauce ,",
+        "Beef Wellington"
       ]
     },
     {
@@ -46,6 +69,14 @@
         "Pesto Pizza",
         "Ratatouille"
       ]
+      ,
+      "ingredients": [
+        "Parmesan Cheese ,",
+        "Lobster Rolls ,",
+        "Beef Wellington ,",
+        "Lamb Chops with Mint Sauce ,",
+        "Beef Wellington"
+      ]
     },
     {
       "id": "5",
@@ -57,6 +88,14 @@
         "Roast Chicken",
         "Beef Stew",
         "Lobster Risotto"
+      ]
+      ,
+      "ingredients": [
+        "Parmesan Cheese ,",
+        "Lobster Rolls ,",
+        "Beef Wellington ,",
+        "Lamb Chops with Mint Sauce ,",
+        "Beef Wellington"
       ]
     },
     {
@@ -70,6 +109,14 @@
         "Coq au Vin",
         "Quiche Lorraine"
       ]
+      ,
+      "ingredients": [
+        "Parmesan Cheese ,",
+        "Lobster Rolls ,",
+        "Beef Wellington ,",
+        "Lamb Chops with Mint Sauce ,",
+        "Beef Wellington"
+      ]
     },
     {
       "id": "7",
@@ -81,6 +128,13 @@
         "Pesto Pasta",
         "Roast Chicken",
         "Fish and Chips"
+      ],
+      "ingredients": [
+        "Parmesan Cheese",
+        "Lobster Rolls",
+        "Beef Wellington",
+        "Lamb Chops with Mint Sauce",
+        "Beef Wellington"
       ]
     },
     {
@@ -94,6 +148,14 @@
         "Roast Turkey",
         "Lobster Rolls"
       ]
+      ,
+      "ingredients": [
+        "Parmesan Cheese ,",
+        "Lobster Rolls ,",
+        "Beef Wellington ,",
+        "Lamb Chops with Mint Sauce ,",
+        "Beef Wellington"
+      ]
     },
     {
       "id": "9",
@@ -105,6 +167,14 @@
         "Eggplant Parmesan",
         "Hummus",
         "Roasted Vegetables"
+      ]
+      ,
+      "ingredients": [
+        "Parmesan Cheese ,",
+        "Lobster Rolls ,",
+        "Beef Wellington ,",
+        "Lamb Chops with Mint Sauce ,",
+        "Beef Wellington"
       ]
     }
   ]
