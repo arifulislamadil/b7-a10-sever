@@ -5,11 +5,6 @@ const chefs = require("./chefs.json")
 const cors = require('cors')
 
 app.use(cors())
-
-
-app.get('/', (req, res) => {
-  res.send("hello world")
-})
 app.get('/chefs', (req, res) => {
   res.send(chefs)
 })
