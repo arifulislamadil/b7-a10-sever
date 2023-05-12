@@ -20,7 +20,6 @@ app.get('/chefs/:id', (req, res) => {
     res.send(chef);
   } else {
     res.status(404).send('User not found');
-    
   }
   });
 
